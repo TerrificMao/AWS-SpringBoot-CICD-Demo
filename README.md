@@ -35,4 +35,4 @@
 - 部署环境
   - AWS EC2
 
-![](asserts/CI-CD.png)
+![](asserts/AWS-DevOps.png)
